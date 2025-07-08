@@ -19,7 +19,6 @@ Le projet implémente manuellement plusieurs algorithmes statistiques et de mach
 ## Installation
 
 ```bash
-git clone [votre-repo]
 cd statistiques
 pip install numpy scipy
 ```
